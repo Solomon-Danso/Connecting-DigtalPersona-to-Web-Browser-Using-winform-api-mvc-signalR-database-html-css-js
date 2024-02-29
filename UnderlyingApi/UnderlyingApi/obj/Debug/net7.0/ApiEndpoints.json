@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "UnderliningAPi.Controllers.ChatController",
+    "Method": "JustGetTheApi",
+    "RelativePath": "api/Chat/JustGetTheApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UnderliningAPi.Controllers.ChatController",
+    "Method": "JustSendTheApi",
+    "RelativePath": "api/Chat/JustSendTheApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Token",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "imageFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

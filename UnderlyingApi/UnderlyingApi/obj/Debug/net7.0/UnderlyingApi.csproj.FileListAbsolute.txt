@@ -1,0 +1,307 @@
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/appsettings.Development.json
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/appsettings.json
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.exe
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.deps.json
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.runtimeconfig.json
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.pdb
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.csproj.AssemblyReference.cache
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.AssemblyInfoInputs.cache
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.AssemblyInfo.cs
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.csproj.CoreCompileInputs.cache
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.MvcApplicationPartsAssemblyInfo.cs
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.MvcApplicationPartsAssemblyInfo.cache
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.sourcelink.json
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets.build.json
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets.development.json
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.UnderlyingApi.Microsoft.AspNetCore.StaticWebAssets.props
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.build.UnderlyingApi.props
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.UnderlyingApi.props
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.UnderlyingApi.props
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets.pack.json
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/scopedcss/bundle/UnderlyingApi.styles.css
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/Underlyi.538B4393.Up2Date
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/refint/UnderlyingApi.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.pdb
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.genruntimeconfig.cache
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/ref/UnderlyingApi.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Azure.Core.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Azure.Identity.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Drawing.Common.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Memory.Data.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Security.Permissions.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/appsettings.Development.json
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/appsettings.json
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.deps.json
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.runtimeconfig.json
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.pdb
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Azure.Core.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Azure.Identity.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.csproj.AssemblyReference.cache
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.AssemblyInfoInputs.cache
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.AssemblyInfo.cs
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.csproj.CoreCompileInputs.cache
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.UnderlyingApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.build.UnderlyingApi.props
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.UnderlyingApi.props
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.UnderlyingApi.props
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets.build.json
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets.development.json
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/scopedcss/bundle/UnderlyingApi.styles.css
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.csproj.CopyComplete
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/refint/UnderlyingApi.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.pdb
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.genruntimeconfig.cache
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/ref/UnderlyingApi.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Humanizer.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/glydetek/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.CodeDom.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Humanizer.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+Z:/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.CodeDom.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/appsettings.Development.json
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/appsettings.json
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.exe
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.deps.json
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.runtimeconfig.json
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/UnderlyingApi.pdb
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Azure.Core.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Azure.Identity.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Humanizer.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.CodeDom.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Drawing.Common.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Memory.Data.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Security.Permissions.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.csproj.AssemblyReference.cache
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.GeneratedMSBuildEditorConfig.editorconfig
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.AssemblyInfoInputs.cache
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.AssemblyInfo.cs
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.csproj.CoreCompileInputs.cache
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.MvcApplicationPartsAssemblyInfo.cs
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.MvcApplicationPartsAssemblyInfo.cache
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.sourcelink.json
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets.build.json
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets.development.json
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.UnderlyingApi.Microsoft.AspNetCore.StaticWebAssets.props
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.build.UnderlyingApi.props
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.UnderlyingApi.props
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.UnderlyingApi.props
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/staticwebassets.pack.json
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/scopedcss/bundle/UnderlyingApi.styles.css
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/Underlyi.538B4393.Up2Date
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/refint/UnderlyingApi.dll
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.pdb
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/UnderlyingApi.genruntimeconfig.cache
+//vmware-host/Shared Folders/Desktop/FingerSignalR/UnderlyingApi/UnderlyingApi/obj/Debug/net7.0/ref/UnderlyingApi.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\UnderlyingApi.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\refint\UnderlyingApi.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\UnderlyingApi.pdb
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\appsettings.Development.json
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\appsettings.json
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\UnderlyingApi.exe
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\UnderlyingApi.deps.json
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\UnderlyingApi.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\UnderlyingApi.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\UnderlyingApi.pdb
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Azure.Core.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Azure.Identity.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Humanizer.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\System.CodeDom.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\System.Drawing.Common.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\System.Memory.Data.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\System.Security.Permissions.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\UnderlyingApi.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\UnderlyingApi.GeneratedMSBuildEditorConfig.editorconfig
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\UnderlyingApi.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\UnderlyingApi.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\UnderlyingApi.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\UnderlyingApi.MvcApplicationPartsAssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\UnderlyingApi.MvcApplicationPartsAssemblyInfo.cache
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\UnderlyingApi.sourcelink.json
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\staticwebassets.build.json
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\staticwebassets.development.json
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\staticwebassets\msbuild.UnderlyingApi.Microsoft.AspNetCore.StaticWebAssets.props
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\staticwebassets\msbuild.build.UnderlyingApi.props
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UnderlyingApi.props
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UnderlyingApi.props
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\staticwebassets.pack.json
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\scopedcss\bundle\UnderlyingApi.styles.css
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\Underlyi.538B4393.Up2Date
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\UnderlyingApi.genruntimeconfig.cache
+\\vmware-host\Shared Folders\Desktop\FingerSignalR\UnderlyingApi\UnderlyingApi\obj\Debug\net7.0\ref\UnderlyingApi.dll

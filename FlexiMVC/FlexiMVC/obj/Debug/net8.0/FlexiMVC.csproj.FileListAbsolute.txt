@@ -1,0 +1,64 @@
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\appsettings.Development.json
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\appsettings.json
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.staticwebassets.runtime.json
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.exe
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.deps.json
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.runtimeconfig.json
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.dll
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.pdb
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.AssemblyInfoInputs.cache
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.AssemblyInfo.cs
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.csproj.CoreCompileInputs.cache
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.MvcApplicationPartsAssemblyInfo.cache
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.RazorAssemblyInfo.cache
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.RazorAssemblyInfo.cs
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.sourcelink.json
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets\msbuild.FlexiMVC.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.FlexiMVC.props
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FlexiMVC.props
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FlexiMVC.props
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\scopedcss\bundle\FlexiMVC.styles.css
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\scopedcss\projectbundle\FlexiMVC.bundle.scp.css
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.dll
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\refint\FlexiMVC.dll
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.pdb
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.genruntimeconfig.cache
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\ref\FlexiMVC.dll
+Z:\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\libman.json
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\appsettings.Development.json
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\appsettings.json
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\libman.json
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.staticwebassets.runtime.json
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.exe
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.deps.json
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.dll
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\bin\Debug\net8.0\FlexiMVC.pdb
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.GeneratedMSBuildEditorConfig.editorconfig
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.MvcApplicationPartsAssemblyInfo.cache
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.RazorAssemblyInfo.cache
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.RazorAssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.sourcelink.json
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets.build.json
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets.development.json
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets\msbuild.FlexiMVC.Microsoft.AspNetCore.StaticWebAssets.props
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.FlexiMVC.props
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FlexiMVC.props
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FlexiMVC.props
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\staticwebassets.pack.json
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\scopedcss\bundle\FlexiMVC.styles.css
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\scopedcss\projectbundle\FlexiMVC.bundle.scp.css
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.dll
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\refint\FlexiMVC.dll
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.pdb
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\FlexiMVC.genruntimeconfig.cache
+\\vmware-host\Shared Folders\Desktop\SignalWinApi\FlexiMVC\FlexiMVC\obj\Debug\net8.0\ref\FlexiMVC.dll
